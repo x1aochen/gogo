@@ -1,0 +1,95 @@
+ManifestFileVersion: 0
+CRC: 2559561763
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eb4ea6019c5c2b5d4d0cf5d269fbce13
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f267fd2d8bcb1179236b6179ac5313bc
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AB/ArmorArticle/5020.png
+- Assets/AB/ShoeArticle/8025.png
+- Assets/AB/WeaponArticle/1113.png
+- Assets/AB/ArmorArticle/5022.png
+- Assets/AB/ShoeArticle/8019.png
+- Assets/AB/ArmorArticle/5015.png
+- Assets/AB/ArmorArticle/5028.png
+- Assets/AB/ShoeArticle/8012.png
+- Assets/AB/ShoeArticle/8018.png
+- Assets/AB/ArmorArticle/5005.png
+- Assets/AB/ShoeArticle/8020.png
+- Assets/AB/WeaponArticle/1110.png
+- Assets/AB/WeaponArticle/1117.png
+- Assets/AB/ArmorArticle/5012.png
+- Assets/AB/ArmorArticle/5019.png
+- Assets/AB/Comsume/10002.png
+- Assets/AB/ShoeArticle/8006.png
+- Assets/AB/ArmorArticle/5006.png
+- Assets/AB/ShoeArticle/8002.png
+- Assets/AB/ArmorArticle/5025.png
+- Assets/AB/ShoeArticle/8003.png
+- Assets/AB/ShoeArticle/8021.png
+- Assets/AB/WeaponArticle/1107.png
+- Assets/AB/Comsume/10007.png
+- Assets/AB/ArmorArticle/5016.png
+- Assets/AB/ArmorArticle/5010.png
+- Assets/AB/Comsume/10004.png
+- Assets/AB/WeaponArticle/1116.png
+- Assets/AB/Comsume/10005.png
+- Assets/AB/ArmorArticle/5024.png
+- Assets/AB/WeaponArticle/1115.png
+- Assets/AB/ArmorArticle/5002.png
+- Assets/AB/WeaponArticle/1119.png
+- Assets/AB/ShoeArticle/8030.png
+- Assets/AB/WeaponArticle/1118.png
+- Assets/AB/ShoeArticle/8023.png
+- Assets/AB/WeaponArticle/1114.png
+- Assets/AB/ArmorArticle/5027.png
+- Assets/AB/ShoeArticle/8008.png
+- Assets/AB/Comsume/10006.png
+- Assets/AB/ShoeArticle/8024.png
+- Assets/AB/ArmorArticle/5023.png
+- Assets/AB/Comsume/10003.png
+- Assets/AB/Comsume/10008.png
+- Assets/AB/ArmorArticle/5009.png
+- Assets/AB/ShoeArticle/8028.png
+- Assets/AB/ShoeArticle/8004.png
+- Assets/AB/ArmorArticle/5017.png
+- Assets/AB/ShoeArticle/8009.png
+- Assets/AB/WeaponArticle/1109.png
+- Assets/AB/WeaponArticle/1112.png
+- Assets/AB/WeaponArticle/1108.png
+- Assets/AB/WeaponArticle/1111.png
+- Assets/AB/ShoeArticle/8005.png
+- Assets/AB/WeaponArticle/1106.png
+- Assets/AB/ArmorArticle/5007.png
+- Assets/AB/ArmorArticle/5021.png
+- Assets/AB/ArmorArticle/5011.png
+- Assets/AB/ArmorArticle/5026.png
+- Assets/AB/ArmorArticle/5004.png
+- Assets/AB/ArmorArticle/5008.png
+- Assets/AB/Comsume/10001.png
+- Assets/AB/ShoeArticle/8022.png
+- Assets/AB/ShoeArticle/8016.png
+- Assets/AB/ArmorArticle/5014.png
+- Assets/AB/ArmorArticle/5018.png
+- Assets/AB/ShoeArticle/8014.png
+- Assets/AB/WeaponArticle/1120.png
+- Assets/AB/ShoeArticle/8029.png
+- Assets/AB/ShoeArticle/8011.png
+- Assets/AB/WeaponArticle/1105.png
+- Assets/AB/ArmorArticle/5013.png
+- Assets/AB/ShoeArticle/8027.png
+- Assets/AB/ShoeArticle/8017.png
+- Assets/AB/ShoeArticle/8007.png
+- Assets/AB/ShoeArticle/8010.png
+- Assets/AB/ArmorArticle/5003.png
+Dependencies: []

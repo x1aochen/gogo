@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 1018072551
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: article
+      Dependencies: {}
+    Info_1:
+      Name: grid
+      Dependencies: {}
